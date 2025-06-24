@@ -1,10 +1,10 @@
-# 📊 Power BI Dashboard: Sample Superstore Analysis
+# Power BI Dashboard: Sample Superstore Analysis
 
 This project analyzes the **Sample Superstore** dataset using Microsoft Power BI to uncover sales, profit, and regional trends. The dashboard provides interactive visual insights that can guide business decisions for growth and efficiency.
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 - **Source**: Sample Superstore dataset 
 - **Type**: CSV
@@ -13,9 +13,9 @@ This project analyzes the **Sample Superstore** dataset using Microsoft Power BI
 
 ---
 
-## 🧠 Business Insights
+##  Business Insights
 
-### ✅ Key Takeaways:
+###  Key Takeaways:
 
 - **Top Regions**: The **West** region generates the most profit.
 - **Profitable Segments**: The **Consumer** segment leads in total sales and net profit.
@@ -29,13 +29,13 @@ This project analyzes the **Sample Superstore** dataset using Microsoft Power BI
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
->: Screenshots link- images\Screenshot 2025-06-24 011645.png"_
+![Dashboard] (images\dashboard-preview.png)
 
 ---
 
-## 📦 Power BI Features Used
+##  Power BI Features Used
 
 - Power Query Editor (data cleaning, unpivoting, transformation)
 - Calculated columns (Year, Month, Quarter from Order Date)
@@ -43,7 +43,7 @@ This project analyzes the **Sample Superstore** dataset using Microsoft Power BI
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Clone the repository
   
